@@ -11,27 +11,7 @@
   "icons": [
     {
       "src": "./images/tepa.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./images/tepa.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "./images/tepa.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "./images/tepa.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
+      "sizes": "192x192"
     }
   ]
 }
