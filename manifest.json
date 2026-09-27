@@ -2,8 +2,10 @@
   "name": "TepaTube",
   "short_name": "TepaTube",
   "description": "Мобильное приложение видеоплатформы TepaTube",
+  "id": "com.tepatube.app",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#272727",
   "theme_color": "#000c48",
   "icons": [
@@ -16,6 +18,20 @@
       "src": "./images/tepa.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./images/tepa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./images/tepa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ]
 }
